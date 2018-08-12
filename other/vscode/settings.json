@@ -1,0 +1,44 @@
+{
+  "window.zoomLevel": 0,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Hasklig",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Ocean Dark Extended",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "editor.minimap.enabled": false,
+  "editor.codeLens": false,
+  "vim.disableAnnoyingNeovimMessage": true,
+  "reason.formatOnSave": true,
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": false,
+  "editor.renderIndentGuides": false,
+  "editor.formatOnSave": true,
+  "editor.matchBrackets": false,
+  "files.useExperimentalFileWatcher": true,
+  "files.exclude": {
+      "/.git": true,
+      "/.DS_Store": true,
+      "/node_modules": true,
+      "/node_modules/": true
+  },
+  "search.exclude": {
+      "/node_modules": true
+  },
+  "files.watcherExclude": {
+      "/node_modules/": true
+  },
+  "editor.renderWhitespace": "all",
+  "editor.scrollBeyondLastLine": true,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "prettier.requireConfig": true,
+  "jest.pathToJest": "npm test --",
+  "gitlens.keymap": "alternate",
+  "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true
+  },
+  "workbench.editor.enablePreview": false,
+}
