@@ -50,11 +50,11 @@ brew install openssh
 # brew install woff2
 
 # Install other useful binaries.
-brew install ack
+# brew install ack
 brew install git
-brew install git-lfs
+# brew install git-lfs
 brew install imagemagick --with-webp
-brew install tree
+# brew install tree
 
 # Remove outdated versions from the cellar.
 brew cleanup
