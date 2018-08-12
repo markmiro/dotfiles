@@ -1,4 +1,4 @@
-# Marks’s dotfiles
+# Mark’s dotfiles
 
 This is a fork of the dotfiles repo from [Matijs Brinkhuis](https://github.com/mathiasbynens/dotfiles).
 
@@ -41,10 +41,6 @@ Suggestions/improvements
 
 ## Author
 
-| [![twitter/markmiro]](http://twitter.com/markmiro "Follow @markmiro on Twitter") |
+| [[twitter/markmiro]](http://twitter.com/markmiro "Follow @markmiro on Twitter") |
 |---|
 | [Mark Miro](https://markmiro.com/) |
-
-## Thanks to…
-
-* [Matijs Brinkhuis](https://matijs.brinkhu.is/) for the original [dotfiles repository]
